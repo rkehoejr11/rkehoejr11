@@ -1,3 +1,4 @@
+# About Me...
 - 👋 Hi, I’m @rkehoejr11 (aka Rob)
 - 👀 I’m interested in trail running, programming (data science at the moment), philosophy and food!
 - 🌱 I’m currently learning how to program (mainly with python and VBA) and trying to become a data scientist using Kaggle & Free Code Camp.
